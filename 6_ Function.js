@@ -1,11 +1,11 @@
+sayHello('soumyadip')
+sayHello(1121)
+
 function sayHello(name){
 
     console.log("Hey, ",name)
     console.log("Hey, ",name,"aasdad")
 }
-
-sayHello('soumyadip')
-sayHello(1121)
 
 function yo(name){
 
