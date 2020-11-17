@@ -6,10 +6,8 @@ var isEven= (hey) =>{
 
 console.log(isEven(2))
 
-
 var test=[4,4,4,4,4].every(isEven)
 console.log(test)
-
 
 var test=[4,4,4,4,4].every((e)=>{
     console.log(e)
