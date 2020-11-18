@@ -5,7 +5,7 @@ const uno = () =>{
 const dos = () =>{
     setTimeout(()=>{
         console.log("Hello, Timer")
-    },3000)
+    },3000);
     console.log("Hi, I'm a dos");
 }
 
