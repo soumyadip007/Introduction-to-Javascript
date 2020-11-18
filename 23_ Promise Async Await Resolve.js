@@ -2,7 +2,7 @@ const uno = () =>{
     return "Hi, I'm a uno";
 }
 
-const dos = () =>{
+const dos = async () =>{
     setTimeout(()=>{
         return "Hello, Timer";
     },3000);
